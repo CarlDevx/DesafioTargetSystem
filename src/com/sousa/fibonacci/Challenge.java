@@ -1,4 +1,4 @@
-package com.sousa;
+package com.sousa.fibonacci;
 import java.util.ArrayList;
 
 public class Challenge{
